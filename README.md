@@ -1,2 +1,2 @@
 # new-try-
-1sr git repository
+1st git repository
